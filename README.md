@@ -1,8 +1,4 @@
-# README #
-
-This repository contains several opensource tools I have written.
-
-Most of the time, each tool has its corresponding blog post.
+FORKED FROM: https://github.com/Hitsxx/NandTool
 
 
 ## firmware-reconstruct.py ##
